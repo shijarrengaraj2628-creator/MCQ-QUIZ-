@@ -1,2 +1,2 @@
 # MCQ-QUIZ-
-The Simple MCQ Quiz Application is a Python program that asks multiple-choice questions, checks answers, and displays the final score.
+The Simple MCQ Quiz Application is a console-based Python program that conducts a multiple-choice quiz. It asks 20 questions related to basic Python concepts and provides four options for each question. The user selects an answer, and the program checks it using conditional statements. The score is calculated automatically, and the final result is displayed based on the user’s performance. The program is designed without using lists or arrays, making it easy for beginners to understand.
